@@ -1,7 +1,27 @@
 🛡️ Aegis π Protocol
 
-Status: Hardened | Core: 3.14159... | Clearance: Mission-Critical
+    CLASSIFIED DOCUMENT: Unauthorized access is prohibited.
 
-The Aegis π Protocol is a specialized layer designed to maintain system equilibrium and data sanitization. Engineered for high-precision operations where performance and security are non-negotiable.
+    MISSION STATUS: Operational | ENCRYPTION: π-Constant
 
-The "Core Directives" (Features)π-Constant Integrity: Utilizing the infinite nature of Pi for non-repeating cryptographic entropy.Shield-Wall Logic: Active monitoring of system states to prevent unauthorized "spindle" interference.Zero-Footprint Purge: Automated sanitization of temporary artifacts following protocol execution.Technical SpecificationsModuleProtocolStatusAegis-AlphaHardware InterfacingREADYπ-ComputeHigh-Precision MathACTIVESentinel-V3Storage SanitizationSTANDBYMission Logs"The Aegis π Protocol represents the final line of defense between raw hardware and external data intrusion. By anchoring security logic to the Pi constant, we ensure a non-deterministic perimeter."
+📋 Mission Briefing
+
+The Aegis π Protocol serves as a high-precision security framework. By anchoring cryptographic logic to the infinite, non-repeating nature of the π symbol, we eliminate deterministic vulnerabilities.
+⚡ Technical Architecture
+Plaintext
+
+[ SYSTEM LOG: 0x314 ]
+-------------------------------
+CORE:        Rust / Tauri
+PROTOCOL:    Aegis-Shield-V4
+PRECISION:   125 Decimal Places
+I/O STATE:   Optimized (Disk D)
+-------------------------------
+
+🛠 Core Directives
+
+    01 Integrity: Maintain a non-repeating entropy source.
+
+    02 Sanitization: Zero-footprint disk cleanup post-execution.
+
+    03 Stealth: Minimal Node/CPU impact (optimized for i7-4710MQ).
