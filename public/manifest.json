@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Aegis \u03c0 \u2622 Protocol",
+  "version": "1.0.0",
+  "description": "The 180-degree privacy shift. Purge site traces instantly.",
+  "permissions": ["browsingData", "activeTab", "tabs", "storage", "cookies", "notifications"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "pi.svg"
+  },
+  "icons": {
+    "48": "pi.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "aegis-pi@protocol.local"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "type": "module"
+  }
+}
